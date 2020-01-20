@@ -1,5 +1,6 @@
 {
   "admins": [
+    "110119589590932086333"
   ],
   "autoreplies_enabled": true,
   "autoreplies": [
@@ -35,6 +36,9 @@
     "autoreply",
     "dnd",
     "starter",
-    "remind"
-  ]
+    "remind",
+    "lookup"
+  ],
+  "spreadsheet_enabled": true,
+  "spreadsheet_url": "https://docs.google.com/spreadsheets/d/1Cy9qQHDaZp2OJr8080U-Qteu84-zpZa0JvU5_N53w4g/edit?usp=sharing"
 }

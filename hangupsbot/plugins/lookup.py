@@ -70,7 +70,7 @@ def lookup(bot, event, *args):
                 if counter < counter_max:
                     htmlmessage += _('<br />Row {}: ').format(counter+1)
                     for datapoint in row:
-                        htmlmessage += '{} | '.format(datapoint)
+                        htmlmessage += '{}<br />'.format(datapoint)
                     htmlmessage += '<br />'
                     counter += 1
                     break # prevent multiple subsequent cell matches appending identical rows
