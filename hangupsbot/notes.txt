@@ -1,0 +1,3 @@
+To run server:
+python3 hangupsbot.py --cookies ~/Library/Caches/hangups/refresh_token.txt --config /Users/jeffreygolditch/workspace/hangoutsbot/hangupsbot/config.json
+
