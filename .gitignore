@@ -4,7 +4,6 @@ __pycache__/
 hangups
 purplex
 aiohttp
-
 *.*~
 /hangupsbot/__pycache__
 /build
@@ -15,3 +14,4 @@ aiohttp
 *.jpg
 
 venv
+/.idea/
